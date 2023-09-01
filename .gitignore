@@ -1,0 +1,11 @@
+# Ignore database files
+*.sqlite3
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore media files (user-uploaded content)
+media/
